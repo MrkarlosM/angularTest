@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as r,b as i,c as n,j as p,l as m,m as s,n as f,q as a,w as c}from"./chunk-NWPQO7P2.mjs";var d=(()=>{let o=class o{constructor(){this.title="angularTest"}};o.\u0275fac=function(e){return new(e||o)},o.\u0275cmp=r({type:o,selectors:[["app-root"]],standalone:!0,features:[n],decls:1,vars:0,template:function(e,y){e&1&&i(0,"Hola estoy funcionando!")},dependencies:[m]});let t=o;return t})();var u=[];var l={providers:[c(u),f()]};var C={providers:[a()]},g=p(l,C);var x=()=>s(d,g),z=x;export{z as a};
